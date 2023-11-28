@@ -1,7 +1,7 @@
 
 
 # Проект CI/CD системы курса "DevOps практики и инструменты"
-## Описание моего проекта
+## Описание моего проекта пока рбезрезультатно
 Для создания CI/CD системы было выдано простое микросервисное приложение:  
  - https://github.com/express42/search_engine_crawler
  - https://github.com/express42/search_engine_ui  
